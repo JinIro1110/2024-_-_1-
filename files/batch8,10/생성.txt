@@ -1,0 +1,20 @@
+The tokenizer class you load from this checkpoint is not the same type as the class this function is called from. It may result in unexpected tokenization. 
+The tokenizer class you load from this checkpoint is 'GPT2Tokenizer'. 
+The class this function is called from is 'PreTrainedTokenizerFast'.
+Prompt: 옛날 옛적에 한 작은 마을에
+Generated: 옛날 옛적에 한 작은 마을에 사는 농부들이 살고 있었어요.
+--------------------------------------------------
+Prompt: 용감한 기사는 드래곤을 물리치기 위해
+Generated: 용감한 기사는 드래곤을 물리치기 위해 온 힘을 다 합쳤지만, 결국엔 드론들이 그의 본심을 제대로 이해하지 못했습니다.
+--------------------------------------------------
+Prompt: 숲속 작은 오두막에서 살던 소녀는
+Generated: 숲속 작은 오두막에서 살던 소녀는 자신의 집을 떠나며 말했어요.
+--------------------------------------------------
+Prompt: 바다 깊은 곳에 숨겨진 보물을
+Generated: 바다 깊은 곳에 숨겨진 보물을 찾다가 우연히 발견한 보물이기에 너무 좋았어요!
+--------------------------------------------------
+Prompt: 마법사의 탑 꼭대기에는
+Generated: 마법사의 탑 꼭대기에는 거대한 별이 솟아났으며 다른 별들은 모두 하늘 높이 떠 있었다.
+--------------------------------------------------
+
+옛날 옛날에 백경이이라는 주인공이 살고 있었어요. 백경이는 물고기, 돌고래라는 친구들과 함께 살고 있었답니다.괜찮아요? 넌 정말 잘생기고 착하고 착해서 머리가 좋아서 그렇게 생각했죠. 曉 뭔가요! 멩기?" 쌘돌이? 그런 말이야? " 왠지 깡마른, 녀석이? 내가 잘생긴 거 같지? 뭐..."라며 백경은 대답했어요...!! " 쎄, 내가 뭘 잘하냐고? 나는 너를 잘 모르겠어
